@@ -1,0 +1,35 @@
+* {
+  font-family: 'roboto';
+  padding: 0px;
+  margin: 0px;
+}
+.bg-custom {
+  max-width: 1000px;
+  display: flex;
+}
+.events-con {
+  width: 65%;
+  background-color: #64748b;
+  padding: 25px;
+}
+.events-head {
+  font-size: 22px;
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.events-list {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.reg-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 30px;
+}

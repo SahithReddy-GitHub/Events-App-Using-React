@@ -1,0 +1,47 @@
+.active-event-para {
+  font-size: 16px;
+  font-weight: 500;
+  color: #0967d2;
+  text-align: center;
+  flex: 1;
+}
+.yet-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.yet-img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.yet-para {
+  font-size: 12px;
+  font-weight: 500;
+  color: #64748b;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.yet-btn {
+  color: #ffffff;
+  background-color: #0967d2;
+  border: none;
+  border-radius: 5px;
+  width: 80%;
+  padding: 10px;
+  cursor: pointer;
+}
+.already-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.already-img {
+  width: 20%;
+  margin-bottom: 20px;
+}
+.yet-head {
+  font-size: 18px;
+  font-weight: 700;
+  color: #475569;
+  margin-bottom: 20px;
+}
